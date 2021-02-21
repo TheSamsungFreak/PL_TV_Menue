@@ -1,0 +1,59 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]TV 1[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_1.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel> 
+
+
+<channels> 
+<channel> 
+<name>[B]TV 2[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_2.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel> 
+
+
+<channels> 
+<channel> 
+<name>[B]TV 3[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_3.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel> 
+
+
+<channels> 
+<channel> 
+<name>[B]TV 4[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_4.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel> 
+
+
+<channels> 
+<channel> 
+<name>[B]TV 5[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_5.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel> 
+
+<channels> 
+<channel> 
+<name>[B]TV - SWIFT[/B]</name> 
+<thumbnail>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/TV_Swift.m3u</externallink> 
+<fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
+<info></info> 
+</channel>
