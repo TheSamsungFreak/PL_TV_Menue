@@ -57,3 +57,12 @@
 <fanart>https://ia802901.us.archive.org/30/items/polska_202003/Polska.png</fanart> 
 <info></info> 
 </channel>
+
+<channels> 
+<channel> 
+<name>[B]KSW TV[/B]</name> 
+<thumbnail>https://www.fite.tv/thumbs/v/2p8wk/1/2p8wk_1614077489/ksw-59-800x1280fit.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/PL_TV_M3U/main/KSW_TV.m3u</externallink> 
+<fanart>https://www.fightevents.de/wp-content/uploads/KSW-59-Poster.jpg</fanart> 
+<info></info> 
+</channel>
